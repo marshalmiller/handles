@@ -6,7 +6,7 @@
 <script>
 export default {
   metaInfo: {
-    title: 'Handles',
+    title: 'Afilli.app',
   },
   beforeCreate() {
     this.$store.commit('initStore');
